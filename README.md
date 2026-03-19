@@ -20,4 +20,4 @@ npm install
 npm run dev
 
 ## Live Demo
-(Add link here after deployment)
+https://react-todo-app-peach-six.vercel.app/
